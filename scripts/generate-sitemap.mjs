@@ -32,5 +32,5 @@ ${urls.filter(url => url !== '').map(url => `  <url>
   </url>`).join('\n')}
 </urlset>`;
 
-fs.writeFileSync(path.join(process.cwd(), 'public', 'sitemap.xml'), xml);
+fs.writeFileSync(path.join(process.cwd(), 'public', 'sitemap-full.xml'), xml);
 console.log(`Sitemap generated successfully with ${urls.length} URLs!`);

@@ -25,11 +25,7 @@ export default function robots(): MetadataRoute.Robots {
       },
     ],
     sitemap: [
-      "https://www.reseauxepaviste.fr/sitemap.xml",
-      "https://www.reseauxepaviste.fr/sitemap-services.xml",
-      "https://www.reseauxepaviste.fr/sitemap-idf.xml",
-      "https://www.reseauxepaviste.fr/sitemap-national.xml",
-      "https://www.reseauxepaviste.fr/sitemap-blog.xml",
+      "https://www.reseauxepaviste.fr/sitemap-full.xml",
     ],
   };
 }
