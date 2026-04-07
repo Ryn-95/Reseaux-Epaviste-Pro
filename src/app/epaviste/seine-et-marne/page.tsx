@@ -4,7 +4,7 @@ import EpavisteLocalTemplate from "@/components/EpavisteLocalTemplate";
 export const metadata = buildPageMetadata({
   title: "Épaviste Seine-et-Marne – Enlèvement d’épave gratuit et agréé VHU | RéseauEpaviste",
   description:
-    "Épaviste agréé en Seine-et-Marne : enlèvement d’épave (VHU) pris en charge, centres VHU partenaires et certificat de destruction officiel. Demandez un rappel ou appelez 01 84 17 32 18.",
+    "Épaviste agréé en Seine-et-Marne : enlèvement d’épave (VHU) pris en charge, centres VHU partenaires et certificat de destruction officiel. Demandez un rappel ou appelez 07 45 48 24 64.",
   pathname: "/epaviste/seine-et-marne",
 });
 
@@ -22,7 +22,7 @@ export default function EpavisteSeineEtMarnePage() {
       localBusinessJsonLdProps={{
         name: "RéseauEpaviste Seine-et-Marne",
         url: "https://reseauepaviste.fr/epaviste/seine-et-marne",
-        telephone: "+33184173218",
+        telephone: "+33745482464",
         cityOrArea: "Seine-et-Marne",
         rating: 4.8,
         reviewCount: 1247,

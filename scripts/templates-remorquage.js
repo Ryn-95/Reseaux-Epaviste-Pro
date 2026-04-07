@@ -8,7 +8,7 @@ module.exports = function generateRemorquagePage(city) {
 
 export const metadata: Metadata = {
   title: 'Remorquage ${city.name} 24h/24 – Dépanneuse Rapide | RéseauEpaviste',
-  description: 'Service de remorquage automobile à ${city.name} (${city.dept}). Assistance technique 24h/24 pour tout type de véhicule. Intervention certifiée sous 30 minutes. Contactez le 01 84 17 32 18.',
+  description: 'Service de remorquage automobile à ${city.name} (${city.dept}). Assistance technique 24h/24 pour tout type de véhicule. Intervention certifiée sous 30 minutes. Contactez le 07 45 48 24 64.',
   alternates: {
     canonical: 'https://reseauepaviste.fr/remorquage/${city.slug}/',
   },
@@ -123,7 +123,7 @@ const jsonLd = {
               name: 'Quelle est la tarification d\\'un remorquage à ${city.name} ?',
               acceptedAnswer: {
                 '@type': 'Answer',
-                text: 'La tarification d\\'un remorquage sur la commune de ${city.name} est réglementée et dépend de la distance parcourue : forfait urbain pour les trajets de moins de 10 km, et tarif kilométrique au-delà. Une estimation précise peut être obtenue par simple appel au 01 84 17 32 18.',
+                text: 'La tarification d\\'un remorquage sur la commune de ${city.name} est réglementée et dépend de la distance parcourue : forfait urbain pour les trajets de moins de 10 km, et tarif kilométrique au-delà. Une estimation précise peut être obtenue par simple appel au 07 45 48 24 64.',
               },
             },
             {
@@ -187,8 +187,8 @@ export default function Remorquage${city.name.replace(/[^a-zA-Z]/g, '')}Page() {
                   <div className="flex flex-col md:flex-row md:items-center justify-between gap-6">
                     <div>
                       <div className="text-[10px] font-black uppercase tracking-[0.2em] text-[var(--gris-texte-leger)] mb-2">Ligne Directe Prioritaire</div>
-                      <a href="tel:+33184173218" className="text-3xl font-black text-[var(--bleu-france)] no-underline">
-                        01 84 17 32 18
+                      <a href="tel:+33745482464" className="text-3xl font-black text-[var(--bleu-france)] no-underline">
+                        07 45 48 24 64
                       </a>
                     </div>
                     <div className="flex flex-col gap-2">
@@ -293,7 +293,7 @@ export default function Remorquage${city.name.replace(/[^a-zA-Z]/g, '')}Page() {
               <div className="bg-white p-8 border border-[var(--gris-border)] shadow-xl">
                 <div className="text-center">
                   <div className="text-[10px] font-black uppercase tracking-[0.2em] text-[var(--gris-texte-leger)] mb-4">Demande de Prise en Charge Immédiate</div>
-                  <a href="tel:+33184173218" className="btn-primary w-full py-5 justify-center text-xl">
+                  <a href="tel:+33745482464" className="btn-primary w-full py-5 justify-center text-xl">
                     Appeler l'Assistance
                   </a>
                   <p className="text-[9px] text-[var(--gris-texte-leger)] mt-4 uppercase tracking-widest font-bold">

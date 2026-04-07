@@ -13,7 +13,7 @@ import TrackedPhoneLink from "@/components/TrackedPhoneLink";
 export const metadata = buildPageMetadata({
   title: "Dépannage Auto Île-de-France | Réseaux Épaviste",
   description:
-    "Dépannage et remorquage auto 24h/7j en Île-de-France. Batterie, crevaison, erreur carburant. Obtenez une intervention rapide. Appelez le 01 84 17 32 18.",
+    "Dépannage et remorquage auto 24h/7j en Île-de-France. Batterie, crevaison, erreur carburant. Obtenez une intervention rapide. Appelez le 07 45 48 24 64.",
   pathname: "/depannage-auto",
 });
 

@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     template: "%s | Réseaux Épaviste — Épaviste Agréé VHU",
   },
   description:
-    "Épaviste agréé VHU pour l'enlèvement d'épave 100% gratuit en Île-de-France. Demandez votre certificat CERFA immédiat. Intervention rapide 7j/7. Appelez le 01 84 17 32 18.",
+    "Épaviste agréé VHU pour l'enlèvement d'épave 100% gratuit en Île-de-France. Demandez votre certificat CERFA immédiat. Intervention rapide 7j/7. Appelez le 07 45 48 24 64.",
   keywords: [
     // ── Mots-clés principaux (head terms) ──
     "épaviste",
@@ -121,7 +121,7 @@ export const metadata: Metadata = {
     title:
       "Épaviste Gratuit Île-de-France | Réseaux Épaviste",
     description:
-      "Épaviste agréé VHU pour l'enlèvement d'épave 100% gratuit en Île-de-France. Demandez votre certificat CERFA immédiat. Intervention rapide 7j/7. Appelez le 01 84 17 32 18.",
+      "Épaviste agréé VHU pour l'enlèvement d'épave 100% gratuit en Île-de-France. Demandez votre certificat CERFA immédiat. Intervention rapide 7j/7. Appelez le 07 45 48 24 64.",
     url: "https://reseauepaviste.fr",
     siteName: "Réseaux Épaviste",
     images: [
@@ -143,7 +143,7 @@ export const metadata: Metadata = {
     title:
       "Épaviste Gratuit Île-de-France | Réseaux Épaviste",
     description:
-      "Épaviste agréé VHU pour l'enlèvement d'épave 100% gratuit en Île-de-France. Demandez votre certificat CERFA immédiat. Intervention rapide 7j/7. Appelez le 01 84 17 32 18.",
+      "Épaviste agréé VHU pour l'enlèvement d'épave 100% gratuit en Île-de-France. Demandez votre certificat CERFA immédiat. Intervention rapide 7j/7. Appelez le 07 45 48 24 64.",
     images: ["https://reseauepaviste.fr/og-image.jpg"],
   },
 

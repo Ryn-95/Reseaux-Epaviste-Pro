@@ -4,7 +4,7 @@ import { buildPageMetadata } from "@/lib/seo/metadata";
 export const metadata = buildPageMetadata({
   title: "Contact RéseauEpaviste – Appelez ou demandez un rappel",
   description:
-    "Contactez RéseauEpaviste pour organiser l’enlèvement de votre épave. Appelez le 01 84 17 32 18 ou demandez un rappel gratuit. Disponible 24h/24 – 7j/7.",
+    "Contactez RéseauEpaviste pour organiser l’enlèvement de votre épave. Appelez le 07 45 48 24 64 ou demandez un rappel gratuit. Disponible 24h/24 – 7j/7.",
   pathname: "/contact",
 });
 
@@ -38,8 +38,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-bold text-gray-800 mb-1">Téléphone</h3>
-                    <a href="tel:+33184173218" className="text-2xl font-bold hover:opacity-80 transition" style={{ color: "#D01F2B" }}>
-                      01 84 17 32 18
+                    <a href="tel:+33745482464" className="text-2xl font-bold hover:opacity-80 transition" style={{ color: "#D01F2B" }}>
+                      07 45 48 24 64
                     </a>
                     <p className="text-gray-500 text-sm mt-1">Disponible 24h/24 – 7j/7</p>
                   </div>

@@ -98,8 +98,8 @@ export default function GuideChecklistDossierEpavePage() {
         badge="Guide – Checklist"
         title="Checklist dossier épave : documents et étapes (VHU)"
         subtitle="Une checklist courte pour préparer l’enlèvement d’une épave : infos d’accès, documents, erreurs à éviter et sources officielles."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

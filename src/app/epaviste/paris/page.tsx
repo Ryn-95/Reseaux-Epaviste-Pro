@@ -22,7 +22,7 @@ export default function EpavisteParisPage() {
       localBusinessJsonLdProps={{
         name: "RéseauEpaviste Paris",
         url: "https://reseauepaviste.fr/epaviste/paris",
-        telephone: "+33184173218",
+        telephone: "+33745482464",
         cityOrArea: "Paris",
         rating: 4.8,
         reviewCount: 1247,

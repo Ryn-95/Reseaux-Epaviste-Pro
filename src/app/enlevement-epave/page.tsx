@@ -11,7 +11,7 @@ import ContextualLinksBlock from "@/components/ContextualLinksBlock";
 export const metadata = buildPageMetadata({
   title: "Enlèvement Épave Gratuit National | Réseaux Épaviste",
   description:
-    "Obtenez un enlèvement d'épave gratuit sous 24h/7j par un épaviste agréé VHU. Demandez votre certificat CERFA officiel. Appelez le 01 84 17 32 18.",
+    "Obtenez un enlèvement d'épave gratuit sous 24h/7j par un épaviste agréé VHU. Demandez votre certificat CERFA officiel. Appelez le 07 45 48 24 64.",
   pathname: "/enlevement-epave",
 });
 
@@ -31,7 +31,7 @@ const faqItems = [
   {
     question: "Puis-je enlever une épave sans carte grise ?",
     answer:
-      "Oui, c'est possible sous certaines conditions. Pour les véhicules dont la première mise en circulation remonte à plus de 15 ans et pour certaines catégories particulières, l'enlèvement sans carte grise est envisageable. Appelez le 01 84 17 32 18 pour une étude de votre cas.",
+      "Oui, c'est possible sous certaines conditions. Pour les véhicules dont la première mise en circulation remonte à plus de 15 ans et pour certaines catégories particulières, l'enlèvement sans carte grise est envisageable. Appelez le 07 45 48 24 64 pour une étude de votre cas.",
   },
   {
     question: "Que faire si mon véhicule est en fourrière ?",

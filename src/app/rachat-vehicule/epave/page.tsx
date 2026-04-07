@@ -9,7 +9,7 @@ import ContextualLinksBlock from "@/components/ContextualLinksBlock";
 export const metadata = buildPageMetadata({
   title: "Rachat véhicule épave – Quand c’est possible | RéseauEpaviste",
   description:
-    "Rachat d’un véhicule épave : dans certains cas, une reprise peut être envisagée selon l’état du véhicule et la valeur résiduelle des pièces. Demandez un rappel. 01 84 17 32 18.",
+    "Rachat d’un véhicule épave : dans certains cas, une reprise peut être envisagée selon l’état du véhicule et la valeur résiduelle des pièces. Demandez un rappel. 07 45 48 24 64.",
   pathname: "/rachat-vehicule/epave",
   openGraphType: "article",
 });
@@ -52,8 +52,8 @@ export default function RachatVehiculeEpavePage() {
         badge="Selon cas – reprise possible"
         title="Rachat d’un véhicule épave : quand c’est envisageable"
         subtitle="Vous avez un véhicule immobilisé/épave ? Dans certains cas, une reprise avec paiement peut être étudiée selon la valeur résiduelle. Sinon, l’enlèvement VHU reste encadré et le certificat officiel est remis."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-14 bg-white border-y border-[#E5E7EB]">

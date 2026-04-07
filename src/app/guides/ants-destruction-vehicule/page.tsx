@@ -84,8 +84,8 @@ export default function GuideAntsDestructionVehiculePage() {
         badge="Guide – Démarches"
         title="ANTS : déclarer la destruction d’un véhicule (VHU)"
         subtitle="Une vue d’ensemble des points à préparer, des erreurs à éviter et des liens officiels à consulter pour la démarche ANTS."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

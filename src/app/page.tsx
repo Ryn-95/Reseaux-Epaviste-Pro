@@ -86,7 +86,7 @@ export default function HomePage() {
                 "@type": ["LocalBusiness", "AutomotiveBusiness"],
                 "@id": "https://reseauxepaviste.fr/#organization",
                 "name": "Réseaux Épaviste",
-                "telephone": "01 84 17 32 18",
+                "telephone": "07 45 48 24 64",
                 "email": "contact@reseauxepaviste.fr",
                 "url": "https://reseauxepaviste.fr",
                 "logo": "https://reseauxepaviste.fr/logo.png",

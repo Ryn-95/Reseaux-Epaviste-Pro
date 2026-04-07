@@ -7,7 +7,7 @@ import { buildPageMetadata } from "@/lib/seo/metadata";
 export const metadata = buildPageMetadata({
   title: "Enlèvement épave sans carte grise – C'est possible | RéseauEpaviste",
   description:
-    "Comment enlever une épave sans carte grise ? Procédure légale, documents alternatifs, cas spéciaux. Guide complet par RéseauEpaviste. Appelez le 01 84 17 32 18.",
+    "Comment enlever une épave sans carte grise ? Procédure légale, documents alternatifs, cas spéciaux. Guide complet par RéseauEpaviste. Appelez le 07 45 48 24 64.",
   pathname: "/enlevement-epave/sans-carte-grise",
 });
 
@@ -55,8 +55,8 @@ export default function SansCarteGrisePage() {
         badge="Cas particulier – Guide complet"
         title="Enlever une épave sans carte grise : c'est possible"
         subtitle="La perte ou l'absence de carte grise ne bloque pas systématiquement l'enlèvement d'une épave. Découvrez les solutions légales disponibles selon votre situation."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-16 bg-white">
@@ -119,7 +119,7 @@ export default function SansCarteGrisePage() {
             </h2>
             <ol className="space-y-4">
               {[
-                { num: "1", text: "Contactez-nous au 01 84 17 32 18 en expliquant votre situation (perte, vol, succession...)" },
+                { num: "1", text: "Contactez-nous au 07 45 48 24 64 en expliquant votre situation (perte, vol, succession...)" },
                 { num: "2", text: "Rassemblez les documents alternatifs disponibles (déclaration de perte, acte de succession, récépissé de déclaration de vol)" },
                 { num: "3", text: "Faites une déclaration à la gendarmerie ou au commissariat si la carte grise est perdue ou volée" },
                 { num: "4", text: "Consultez le site ANTS (ants.gouv.fr) pour demander un duplicata si vous êtes toujours le propriétaire légal" },

@@ -4,7 +4,7 @@ import EpavisteLocalTemplate from "@/components/EpavisteLocalTemplate";
 export const metadata = buildPageMetadata({
   title: "Épaviste Hauts-de-Seine – Enlèvement d’épave gratuit et agréé VHU | RéseauEpaviste",
   description:
-    "Épaviste agréé dans les Hauts-de-Seine : enlèvement d’épave (VHU) pris en charge, orientation vers un centre VHU partenaire et remise du certificat de destruction officiel. Demandez un rappel ou appelez 01 84 17 32 18.",
+    "Épaviste agréé dans les Hauts-de-Seine : enlèvement d’épave (VHU) pris en charge, orientation vers un centre VHU partenaire et remise du certificat de destruction officiel. Demandez un rappel ou appelez 07 45 48 24 64.",
   pathname: "/epaviste/hauts-de-seine",
 });
 
@@ -22,7 +22,7 @@ export default function EpavisteHautsDeSeinePage() {
       localBusinessJsonLdProps={{
         name: "RéseauEpaviste Hauts-de-Seine",
         url: "https://reseauepaviste.fr/epaviste/hauts-de-seine",
-        telephone: "+33184173218",
+        telephone: "+33745482464",
         cityOrArea: "Hauts-de-Seine",
         postalCode: "92000",
         rating: 4.8,

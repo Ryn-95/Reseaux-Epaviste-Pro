@@ -13,7 +13,7 @@ export const metadata = buildPageMetadata({
 const faqItems = [
   { question: "L'enlèvement d'épave est-il vraiment gratuit ?", answer: "Oui, l'enlèvement d'épave par un centre VHU agréé est entièrement gratuit pour le propriétaire. Les centres VHU se rémunèrent grâce à la valorisation des métaux et des pièces recyclables récupérés sur le véhicule. Aucun frais de déplacement, ni de main-d'œuvre ne vous sera demandé." },
   { question: "Quels documents dois-je fournir pour l'enlèvement ?", answer: "Vous devez présenter la carte grise (certificat d'immatriculation) barrée avec la mention manuscrite 'vendu/cédé le [date]' et votre signature, ainsi qu'une pièce d'identité valide (carte nationale d'identité ou passeport). Si le propriétaire ne peut pas être présent, une procuration écrite et une copie de sa pièce d'identité sont nécessaires." },
-  { question: "Que se passe-t-il si je n'ai plus la carte grise ?", answer: "En cas de perte ou de vol de la carte grise, plusieurs solutions existent. Pour les véhicules de moins de 15 ans, vous devez en général fournir un duplicata ou une attestation de l'ANTS. Pour les véhicules plus anciens, certaines exceptions s'appliquent. Contactez-nous au 01 84 17 32 18 pour trouver la solution adaptée à votre situation." },
+  { question: "Que se passe-t-il si je n'ai plus la carte grise ?", answer: "En cas de perte ou de vol de la carte grise, plusieurs solutions existent. Pour les véhicules de moins de 15 ans, vous devez en général fournir un duplicata ou une attestation de l'ANTS. Pour les véhicules plus anciens, certaines exceptions s'appliquent. Contactez-nous au 07 45 48 24 64 pour trouver la solution adaptée à votre situation." },
   { question: "Puis-je faire enlever un véhicule qui ne m'appartient pas ?", answer: "Non, en principe l'enlèvement doit être demandé par le propriétaire légal du véhicule. Cependant, avec une procuration écrite et notariée du propriétaire, ou dans le cas d'une succession, d'autres personnes peuvent initier la démarche. Contactez-nous pour étudier votre cas particulier." },
   { question: "Quel est le délai d'intervention en Île-de-France ?", answer: "En Île-de-France, notre délai moyen d'intervention est de 30 minutes à 2 heures selon votre localisation et la disponibilité de nos équipes. En province, le délai est généralement de 24 à 48 heures. Nous intervenons 7 jours sur 7 et jours fériés." },
   { question: "Intervenez-vous le week-end et les jours fériés ?", answer: "Oui, notre service est disponible 24 heures sur 24 et 7 jours sur 7, y compris les week-ends, les jours fériés et la nuit. Certains départements peuvent avoir des disponibilités réduites hors heures ouvrables, mais nous nous engageons à traiter toutes les demandes dans les meilleurs délais." },
@@ -59,10 +59,10 @@ export default function FAQPage() {
 
           <div className="flex flex-col md:flex-row md:items-center gap-3">
             <a
-              href="tel:+33184173218"
+              href="tel:+33745482464"
               className="inline-flex items-center justify-center bg-[#1E3A8A] text-white font-semibold py-3 px-5 rounded-lg hover:opacity-90 transition"
             >
-              Appeler le 01 84 17 32 18
+              Appeler le 07 45 48 24 64
             </a>
             <div className="text-xs text-[#6B7280]">
               Disponible 24h/24 – 7j/7. Délais indicatifs selon zone et accessibilité.

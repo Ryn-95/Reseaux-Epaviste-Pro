@@ -56,8 +56,8 @@ export default function SansControleTechniquePage() {
         badge="Cas particulier – sans CT"
         title="Voiture sans contrôle technique : quoi faire si elle devient une épave (VHU) ?"
         subtitle="Cette page donne une vue d’ensemble : documents à préparer, procédure VHU et sources officielles à consulter selon votre situation."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

@@ -7,7 +7,7 @@ import { buildPageMetadata } from "@/lib/seo/metadata";
 export const metadata = buildPageMetadata({
   title: "Enlèvement voiture brûlée – Procédure et gratuité | RéseauEpaviste",
   description:
-    "Votre voiture a été brûlée ? Découvrez la procédure d'enlèvement d'une épave incendiée : démarches assurance, police, certificat VHU. Gratuit. Appelez le 01 84 17 32 18.",
+    "Votre voiture a été brûlée ? Découvrez la procédure d'enlèvement d'une épave incendiée : démarches assurance, police, certificat VHU. Gratuit. Appelez le 07 45 48 24 64.",
   pathname: "/enlevement-epave/voiture-brulee",
 });
 
@@ -55,8 +55,8 @@ export default function VoitureBruleePage() {
         badge="Urgence – Intervention rapide"
         title="Enlèvement voiture brûlée : procédure et gratuité"
         subtitle="Votre véhicule a été victime d'un incendie accidentel ou criminel ? RéseauEpaviste organise l'enlèvement gratuit de votre voiture brûlée avec toutes les démarches administratives."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-16 bg-white">
@@ -84,7 +84,7 @@ export default function VoitureBruleePage() {
                 { num: "1", title: "Appeler les pompiers et/ou la police (si ce n'est pas fait)", text: "En cas d'incendie actif : 18 (pompiers) ou 17 (police). Si l'incendie est éteint mais récent, signalez-le quand même à la police." },
                 { num: "2", title: "Déposer plainte (si acte criminel)", text: "Si le feu est d'origine criminelle (incendie volontaire, tentative de vol), déposez plainte dans les 24 heures auprès de la police ou de la gendarmerie. Obtenez un récépissé de plainte." },
                 { num: "3", title: "Déclarer le sinistre à votre assurance", text: "Contactez votre assureur dans les 5 jours ouvrés. Transmettez le numéro de plainte et une description des faits. Votre assurance évaluera si la garantie incendie s'applique." },
-                { num: "4", title: "Organiser l'enlèvement", text: "Appelez RéseauEpaviste au 01 84 17 32 18. L'enlèvement est gratuit. Préparez votre carte grise, votre pièce d'identité et la déclaration de sinistre assurance." },
+                { num: "4", title: "Organiser l'enlèvement", text: "Appelez RéseauEpaviste au 07 45 48 24 64. L'enlèvement est gratuit. Préparez votre carte grise, votre pièce d'identité et la déclaration de sinistre assurance." },
                 { num: "5", title: "Radier le véhicule", text: "Avec le certificat de destruction CERFA remis lors de l'enlèvement, procédez à la radiation du véhicule sur le site ANTS dans un délai de 15 jours." },
               ].map((step) => (
                 <li key={step.num} className="flex gap-4 items-start bg-[#F8F8F8] rounded-xl p-5 border border-gray-100">

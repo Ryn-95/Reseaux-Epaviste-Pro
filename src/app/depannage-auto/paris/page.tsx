@@ -55,7 +55,7 @@ export default function DepannageAutoParisPage() {
       <LocalBusinessJsonLd
         name="Épaviste.pro – Dépannage auto Paris"
         url="https://reseauxepaviste.fr/depannage-auto/paris"
-        telephone="+33184173218"
+        telephone="+33745482464"
         cityOrArea="Paris"
         rating={4.8}
         reviewCount={1247}

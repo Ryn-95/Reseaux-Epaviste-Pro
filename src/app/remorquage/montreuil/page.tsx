@@ -62,8 +62,8 @@ export default function RemorquageMontreuilPage() {
                 <div className="w-2 h-2 rounded-full bg-[var(--blue-france-main)] animate-pulse"></div>
                 <span className="text-[10px] font-bold uppercase text-gray-500 tracking-widest">Remorquage Montreuil actif</span>
               </div>
-              <a href="tel:+33184173218" className="text-2xl font-black text-[var(--blue-france-main)] no-underline">
-                01 84 17 32 18
+              <a href="tel:+33745482464" className="text-2xl font-black text-[var(--blue-france-main)] no-underline">
+                07 45 48 24 64
               </a>
             </div>
           </div>
@@ -76,8 +76,8 @@ export default function RemorquageMontreuilPage() {
           badge="Transfert Sécurisé"
           title="Service de Remorquage Agréé à Montreuil"
           subtitle="Solution logistique certifiée pour le transport de votre véhicule depuis ou vers Montreuil. Intervention immédiate par plateau technique spécialisé, disponible 24h/24."
-          ctaText="Demander un Remorquage : 01 84 17 32 18"
-          ctaHref="tel:+33184173218"
+          ctaText="Demander un Remorquage : 07 45 48 24 64"
+          ctaHref="tel:+33745482464"
         />
 
         <TrustBadges />
@@ -125,7 +125,7 @@ export default function RemorquageMontreuilPage() {
                 </p>
                 <div className="p-8 bg-[var(--blue-france-950)] border-l-8 border-[var(--blue-france-main)] shadow-sm">
                   <p className="text-[10px] font-black uppercase text-[var(--blue-france-main)] tracking-[0.2em] mb-3">Ligne Transfert Montreuil</p>
-                  <a href="tel:+33184173218" className="text-3xl font-black text-[var(--grey-900)] no-underline">01 84 17 32 18</a>
+                  <a href="tel:+33745482464" className="text-3xl font-black text-[var(--grey-900)] no-underline">07 45 48 24 64</a>
                 </div>
               </div>
               <div className="lg:col-span-7">

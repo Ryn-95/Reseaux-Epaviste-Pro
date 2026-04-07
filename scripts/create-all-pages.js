@@ -103,7 +103,7 @@ export default function Epaviste${city.name.replace(/[^a-zA-Z]/g, '')}Page() {
                 <span className="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse"></span>
                 Secteur ${city.name} actif
               </div>
-              <a href="tel:+33184173218" className="text-xl font-black text-[var(--blue-france-main)] no-underline">01 84 17 32 18</a>
+              <a href="tel:+33745482464" className="text-xl font-black text-[var(--blue-france-main)] no-underline">07 45 48 24 64</a>
             </div>
           </div>
         </div>
@@ -128,7 +128,7 @@ export default function Epaviste${city.name.replace(/[^a-zA-Z]/g, '')}Page() {
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-4">
-                  <a href="tel:+33184173218" className="fr-btn shadow-lg py-4 px-8 text-lg">Mobiliser une unité d'enlèvement</a>
+                  <a href="tel:+33745482464" className="fr-btn shadow-lg py-4 px-8 text-lg">Mobiliser une unité d'enlèvement</a>
                   <div className="flex flex-col justify-center">
                     <span className="text-[10px] font-bold text-gray-500 uppercase tracking-widest leading-none">Intervention sous</span>
                     <span className="text-xl font-black text-[var(--blue-france-main)] uppercase tracking-tighter">24 Heures</span>
@@ -199,7 +199,7 @@ export default function Epaviste${city.name.replace(/[^a-zA-Z]/g, '')}Page() {
                 <p className="text-[var(--grey-600)] leading-relaxed">Veuillez préparer votre carte grise et une pièce d'identité pour la constitution du dossier administratif de destruction à ${city.name}.</p>
                 <div className="p-6 bg-white border border-[var(--grey-200)] border-l-4 border-[var(--blue-france-main)] shadow-sm">
                   <p className="text-xs font-black uppercase text-[var(--blue-france-main)] mb-2">Centre d'appel local</p>
-                  <a href="tel:+33184173218" className="text-2xl font-black text-[var(--grey-900)] no-underline">01 84 17 32 18</a>
+                  <a href="tel:+33745482464" className="text-2xl font-black text-[var(--grey-900)] no-underline">07 45 48 24 64</a>
                 </div>
               </div>
               <div className="lg:col-span-7">

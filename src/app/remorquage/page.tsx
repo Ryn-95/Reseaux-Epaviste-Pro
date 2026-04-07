@@ -39,8 +39,8 @@ export default function RemorquagePage() {
         badge="Disponible 24h/24 7j/7"
         title="Remorquage voiture 24h/7j – Intervention rapide"
         subtitle="Votre véhicule est immobilisé ? Nos camions-plateau interviennent rapidement pour remorquer votre voiture vers le garage de votre choix, partout en France."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-16 bg-white">

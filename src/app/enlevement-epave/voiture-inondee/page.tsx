@@ -9,7 +9,7 @@ import Link from "next/link";
 export const metadata = buildPageMetadata({
   title: "Épave après inondation – Enlèvement & procédure VHU | RéseauEpaviste",
   description:
-    "Voiture inondée : quand devient-elle une épave (VHU) ? Procédure, documents, accessibilité, erreurs à éviter et sources officielles. Appelez 01 84 17 32 18.",
+    "Voiture inondée : quand devient-elle une épave (VHU) ? Procédure, documents, accessibilité, erreurs à éviter et sources officielles. Appelez 07 45 48 24 64.",
   pathname: "/enlevement-epave/voiture-inondee",
 });
 
@@ -56,8 +56,8 @@ export default function VoitureInondeePage() {
         badge="Cas particulier – inondation"
         title="Voiture inondée : enlèvement et procédure VHU (épave)"
         subtitle="Une voiture inondée peut devenir non roulante ou dangereuse. Cette page résume quoi préparer, comment se passe l’enlèvement, et comment sécuriser une procédure conforme VHU."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

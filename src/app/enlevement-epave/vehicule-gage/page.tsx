@@ -55,8 +55,8 @@ export default function VehiculeGagePage() {
         badge="Cas particulier – Crédit en cours"
         title="Enlèvement d'une épave avec crédit en cours (véhicule gagé)"
         subtitle="Un véhicule gagé ne peut pas être cédé pour destruction sans accord préalable de l'organisme de crédit. Voici la procédure légale à suivre étape par étape."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-16 bg-white">
@@ -99,7 +99,7 @@ export default function VehiculeGagePage() {
                 { num: "2", title: "Contactez votre organisme de crédit", text: "Appelez votre banque ou organisme de financement pour expliquer la situation (épave, accident, inondation...) et demandez la procédure de mainlevée." },
                 { num: "3", title: "Contactez votre assureur", text: "Si l'épave résulte d'un sinistre, déclarez-le immédiatement à votre assurance. En cas de perte totale, l'assurance verse une indemnisation qui peut couvrir tout ou partie du solde du crédit." },
                 { num: "4", title: "Obtenez la mainlevée du gage", text: "Une fois le crédit soldé ou un accord conclu avec l'organisme de crédit, obtenez la mainlevée du gage par écrit. Ce document prouve que le véhicule n'est plus soumis à garantie." },
-                { num: "5", title: "Procédez à l'enlèvement", text: "Avec la mainlevée en main, contactez RéseauEpaviste au 01 84 17 32 18. L'enlèvement peut être organisé normalement, avec remise du certificat de destruction CERFA." },
+                { num: "5", title: "Procédez à l'enlèvement", text: "Avec la mainlevée en main, contactez RéseauEpaviste au 07 45 48 24 64. L'enlèvement peut être organisé normalement, avec remise du certificat de destruction CERFA." },
               ].map((step) => (
                 <li key={step.num} className="flex gap-4 items-start bg-[#F8F8F8] rounded-xl p-5 border border-gray-100">
                   <span className="w-8 h-8 rounded-full text-white font-bold flex items-center justify-center flex-shrink-0 text-sm" style={{ backgroundColor: "#D01F2B" }}>

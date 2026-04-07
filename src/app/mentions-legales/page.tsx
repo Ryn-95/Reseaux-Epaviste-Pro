@@ -25,7 +25,7 @@ export default function MentionsLegalesPage() {
               <p>Numéro TVA intracommunautaire : FR 12 850123456</p>
               <p>Directeur de la publication : M. Jean-Pierre Martin</p>
               <p>Email : contact@reseauepaviste.fr</p>
-              <p>Téléphone : 01 84 17 32 18</p>
+              <p>Téléphone : 07 45 48 24 64</p>
             </div>
           </div>
 

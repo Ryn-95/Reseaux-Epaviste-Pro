@@ -147,7 +147,7 @@ export default function DepannageAuto${componentName}Page() {
                 <span className="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse"></span>
                 Unité ${cityName} en astreinte
               </div>
-              <a href="tel:+33184173218" className="text-xl font-black text-[var(--blue-france-main)] no-underline">01 84 17 32 18</a>
+              <a href="tel:+33745482464" className="text-xl font-black text-[var(--blue-france-main)] no-underline">07 45 48 24 64</a>
             </div>
           </div>
         </div>
@@ -171,7 +171,7 @@ export default function DepannageAuto${componentName}Page() {
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-4">
-                  <a href="tel:+33184173218" className="fr-btn shadow-lg py-4 px-8 text-lg">Mobiliser un technicien</a>
+                  <a href="tel:+33745482464" className="fr-btn shadow-lg py-4 px-8 text-lg">Mobiliser un technicien</a>
                   <div className="flex flex-col justify-center">
                     <span className="text-[10px] font-bold text-gray-500 uppercase tracking-widest leading-none">Arrivée sur site</span>
                     <span className="text-xl font-black text-[var(--blue-france-main)] uppercase tracking-tighter">30-45 Min</span>
@@ -241,7 +241,7 @@ export default function DepannageAuto${componentName}Page() {
                 <p className="text-[var(--grey-600)] leading-relaxed">Contactez notre ligne technique pour une évaluation immédiate de votre panne à ${cityName}.</p>
                 <div className="p-6 bg-white border border-[var(--grey-200)] border-l-4 border-[var(--blue-france-main)] shadow-sm">
                   <p className="text-xs font-black uppercase text-[var(--blue-france-main)] mb-2">Ligne Prioritaire</p>
-                  <a href="tel:+33184173218" className="text-2xl font-black text-[var(--grey-900)] no-underline">01 84 17 32 18</a>
+                  <a href="tel:+33745482464" className="text-2xl font-black text-[var(--grey-900)] no-underline">07 45 48 24 64</a>
                 </div>
               </div>
               <div className="lg:col-span-7">
@@ -331,7 +331,7 @@ export default function Remorquage${componentName}Page() {
                 <span className="w-1.5 h-1.5 rounded-full bg-[var(--blue-france-main)] animate-pulse"></span>
                 Remorquage ${cityName}
               </div>
-              <a href="tel:+33184173218" className="text-xl font-black text-[var(--blue-france-main)] no-underline">01 84 17 32 18</a>
+              <a href="tel:+33745482464" className="text-xl font-black text-[var(--blue-france-main)] no-underline">07 45 48 24 64</a>
             </div>
           </div>
         </div>
@@ -355,7 +355,7 @@ export default function Remorquage${componentName}Page() {
                   </p>
                 </div>
                 <div className="flex flex-wrap gap-4">
-                  <a href="tel:+33184173218" className="fr-btn shadow-lg py-4 px-8 text-lg">Demander un remorquage</a>
+                  <a href="tel:+33745482464" className="fr-btn shadow-lg py-4 px-8 text-lg">Demander un remorquage</a>
                   <div className="flex flex-col justify-center">
                     <span className="text-[10px] font-bold text-gray-500 uppercase tracking-widest leading-none">Intervention</span>
                     <span className="text-xl font-black text-[var(--blue-france-main)] uppercase tracking-tighter">7j/7 - 24h/24</span>
@@ -425,7 +425,7 @@ export default function Remorquage${componentName}Page() {
                 <p className="text-[var(--grey-600)] leading-relaxed">Laissez vos coordonnées pour recevoir un devis gratuit pour votre remorquage à ${cityName}.</p>
                 <div className="p-6 bg-white border border-[var(--grey-200)] border-l-4 border-[var(--blue-france-main)] shadow-sm">
                   <p className="text-xs font-black uppercase text-[var(--blue-france-main)] mb-2">Ligne Directe</p>
-                  <a href="tel:+33184173218" className="text-2xl font-black text-[var(--grey-900)] no-underline">01 84 17 32 18</a>
+                  <a href="tel:+33745482464" className="text-2xl font-black text-[var(--grey-900)] no-underline">07 45 48 24 64</a>
                 </div>
               </div>
               <div className="lg:col-span-7">

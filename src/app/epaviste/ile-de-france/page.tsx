@@ -12,7 +12,7 @@ export const metadata = buildPageMetadata({
   title:
     "Épaviste Île‑de‑France – Enlèvement d’épave gratuit dans tous les départements | RéseauEpaviste",
   description:
-    "RéseauEpaviste coordonne des épavistes agréés dans toute l’Île‑de‑France. Enlèvement d’épave (VHU) pris en charge, centres VHU partenaires et certificat de destruction officiel. Appelez 01 84 17 32 18.",
+    "RéseauEpaviste coordonne des épavistes agréés dans toute l’Île‑de‑France. Enlèvement d’épave (VHU) pris en charge, centres VHU partenaires et certificat de destruction officiel. Appelez 07 45 48 24 64.",
   pathname: "/epaviste/ile-de-france",
 });
 
@@ -72,8 +72,8 @@ export default function EpavisteIdfHubPage() {
         badge="Île‑de‑France – Réseau d’épavistes agréés"
         title="Épaviste Île‑de‑France : enlèvement d’épave gratuit (VHU)"
         subtitle="RéseauEpaviste coordonne un réseau d’épavistes agréés et d’orientations vers des centres VHU partenaires pour traiter votre véhicule hors d’usage selon le cadre légal."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-14 bg-white border-y border-[#E5E7EB]">

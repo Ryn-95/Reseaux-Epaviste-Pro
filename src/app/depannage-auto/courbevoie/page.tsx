@@ -62,8 +62,8 @@ export default function DepannageAutoCourbevoiePage() {
                 <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse"></div>
                 <span className="text-[10px] font-bold uppercase text-gray-500 tracking-widest">Unité Courbevoie active</span>
               </div>
-              <a href="tel:+33184173218" className="text-2xl font-black text-[var(--blue-france-main)] no-underline">
-                01 84 17 32 18
+              <a href="tel:+33745482464" className="text-2xl font-black text-[var(--blue-france-main)] no-underline">
+                07 45 48 24 64
               </a>
             </div>
           </div>
@@ -76,8 +76,8 @@ export default function DepannageAutoCourbevoiePage() {
           badge="Astreinte 24h/7j"
           title="Dépannage Automobile d'Urgence à Courbevoie"
           subtitle="Intervention technique immédiate pour pannes mécaniques, batteries et pneumatiques sur la commune de Courbevoie. Nos dépanneurs certifiés arrivent sous 30-45 minutes."
-          ctaText="Ligne Prioritaire : 01 84 17 32 18"
-          ctaHref="tel:+33184173218"
+          ctaText="Ligne Prioritaire : 07 45 48 24 64"
+          ctaHref="tel:+33745482464"
         />
 
         <TrustBadges />
@@ -125,7 +125,7 @@ export default function DepannageAutoCourbevoiePage() {
                 </p>
                 <div className="p-8 bg-[var(--blue-france-950)] border-l-8 border-[var(--blue-france-main)] shadow-sm">
                   <p className="text-[10px] font-black uppercase text-[var(--blue-france-main)] tracking-[0.2em] mb-3">Ligne d'Urgence Courbevoie</p>
-                  <a href="tel:+33184173218" className="text-3xl font-black text-[var(--grey-900)] no-underline">01 84 17 32 18</a>
+                  <a href="tel:+33745482464" className="text-3xl font-black text-[var(--grey-900)] no-underline">07 45 48 24 64</a>
                 </div>
               </div>
               <div className="lg:col-span-7">

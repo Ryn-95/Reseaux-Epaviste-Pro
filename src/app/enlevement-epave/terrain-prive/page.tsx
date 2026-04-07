@@ -7,7 +7,7 @@ import { buildPageMetadata } from "@/lib/seo/metadata";
 export const metadata = buildPageMetadata({
   title: "Enlèvement d'une épave sur propriété privée | RéseauEpaviste",
   description:
-    "Épave abandonnée sur votre terrain privé ou dans votre jardin ? Procédure légale, droits du propriétaire, démarches. Guide RéseauEpaviste. Appelez le 01 84 17 32 18.",
+    "Épave abandonnée sur votre terrain privé ou dans votre jardin ? Procédure légale, droits du propriétaire, démarches. Guide RéseauEpaviste. Appelez le 07 45 48 24 64.",
   pathname: "/enlevement-epave/terrain-prive",
 });
 
@@ -55,8 +55,8 @@ export default function TerrainPrivePage() {
         badge="Propriété privée – Procédure adaptée"
         title="Enlèvement d'une épave sur propriété privée"
         subtitle="Votre épave est dans votre jardin, votre cour ou votre terrain ? Ou quelqu'un a abandonné un véhicule chez vous ? Découvrez la procédure légale selon chaque cas."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-16 bg-white">

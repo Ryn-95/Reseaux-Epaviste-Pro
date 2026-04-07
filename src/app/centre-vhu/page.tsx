@@ -10,7 +10,7 @@ import ContextualLinksBlock from "@/components/ContextualLinksBlock";
 export const metadata = buildPageMetadata({
   title: "Centre VHU agréé – Trouvez un centre partenaire | RéseauEpaviste",
   description:
-    "Trouvez un centre VHU agréé préfecture proche de chez vous. Traitement écologique des véhicules hors d’usage et certificat de destruction officiel. Contactez-nous : 01 84 17 32 18.",
+    "Trouvez un centre VHU agréé préfecture proche de chez vous. Traitement écologique des véhicules hors d’usage et certificat de destruction officiel. Contactez-nous : 07 45 48 24 64.",
   pathname: "/centre-vhu",
 });
 
@@ -59,8 +59,8 @@ export default function CentreVHUPage() {
         badge="Agréés Préfecture – 100% Conformes"
         title="Centres VHU agréés partenaires RéseauEpaviste"
         subtitle="Notre réseau s'appuie exclusivement sur des centres de traitement des véhicules hors d'usage agréés préfecture, garantissant un traitement légal et écologique de votre épave."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-16 bg-white">

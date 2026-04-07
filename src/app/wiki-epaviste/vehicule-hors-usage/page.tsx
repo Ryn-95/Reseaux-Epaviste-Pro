@@ -202,11 +202,11 @@ export default function VehiculeHorsUsagePage() {
                 un enlèvement gratuit, légal et respectueux de l'environnement.
               </p>
               <a
-                href="tel:+33184173218"
+                href="tel:+33745482464"
                 className="inline-flex items-center gap-2 text-white font-bold px-6 py-3 rounded-lg hover:opacity-90 transition text-sm"
                 style={{ backgroundColor: "#D01F2B" }}
               >
-                Appeler le 01 84 17 32 18 – Gratuit
+                Appeler le 07 45 48 24 64 – Gratuit
               </a>
             </div>
 

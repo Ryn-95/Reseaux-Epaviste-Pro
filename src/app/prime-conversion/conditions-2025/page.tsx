@@ -97,8 +97,8 @@ export default function PrimeConversionConditions2025Page() {
         badge="Guide 2025 – Prime à la conversion"
         title="Prime à la conversion 2025 : conditions, checklist et sources officielles"
         subtitle="Ce guide vous aide à vérifier les critères et à préparer les documents, avec des liens vers les sources institutionnelles."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

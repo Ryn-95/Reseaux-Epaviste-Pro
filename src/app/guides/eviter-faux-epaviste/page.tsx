@@ -85,8 +85,8 @@ export default function EviterFauxEpavistePage() {
         badge="Guide – éviter les arnaques"
         title="Éviter les faux épavistes : checklist et signaux d’alerte"
         subtitle="Une checklist courte pour sécuriser votre enlèvement d’épave (VHU) : questions à poser, documents à obtenir, erreurs à éviter et liens officiels."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

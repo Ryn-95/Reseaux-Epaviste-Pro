@@ -70,8 +70,8 @@ export default function VoitureElectriqueBatteriePage() {
         badge="Cas particulier – véhicule électrique"
         title="Voiture électrique hors d’usage : batterie, enlèvement et VHU"
         subtitle="Un véhicule électrique peut nécessiter des précautions spécifiques. Cette page donne les points à préparer et les sources officielles à consulter."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

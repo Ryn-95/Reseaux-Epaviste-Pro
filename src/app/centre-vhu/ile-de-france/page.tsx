@@ -9,7 +9,7 @@ import Link from "next/link";
 export const metadata = buildPageMetadata({
   title: "Centre VHU agréé en Île-de-France – RéseauEpaviste",
   description:
-    "Trouvez un centre VHU agréé en Île-de-France : traitement des véhicules hors d’usage, dépollution et certificat de destruction officiel. Appelez 01 84 17 32 18.",
+    "Trouvez un centre VHU agréé en Île-de-France : traitement des véhicules hors d’usage, dépollution et certificat de destruction officiel. Appelez 07 45 48 24 64.",
   pathname: "/centre-vhu/ile-de-france",
 });
 
@@ -53,8 +53,8 @@ export default function CentreVHUIdfPage() {
         badge="Île-de-France – Centres VHU agréés"
         title="Centre VHU agréé en Île-de-France – Traitement légal des VHU"
         subtitle="Centres VHU agréés partenaires : dépollution, valorisation et certificat de destruction officiel. Demandez un rappel pour être orienté vers le centre le plus adapté."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-14 bg-white border-y border-[#E5E7EB]">

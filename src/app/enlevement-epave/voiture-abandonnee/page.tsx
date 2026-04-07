@@ -70,8 +70,8 @@ export default function VoitureAbandonneePage() {
         badge="Guide – véhicule abandonné"
         title="Voiture abandonnée : que faire selon le lieu (voie publique / terrain privé)"
         subtitle="Les démarches varient selon l’emplacement et le propriétaire. Ce guide donne une vue d’ensemble et renvoie vers les sources officielles à jour."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

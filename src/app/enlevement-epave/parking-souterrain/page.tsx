@@ -7,7 +7,7 @@ import { buildPageMetadata } from "@/lib/seo/metadata";
 export const metadata = buildPageMetadata({
   title: "Enlèvement épave en parking souterrain | RéseauEpaviste",
   description:
-    "Enlèvement d'épave en parking souterrain : équipements adaptés, procédure, contraintes. Copropriété, résidence, parking public. Gratuit. Appelez le 01 84 17 32 18.",
+    "Enlèvement d'épave en parking souterrain : équipements adaptés, procédure, contraintes. Copropriété, résidence, parking public. Gratuit. Appelez le 07 45 48 24 64.",
   pathname: "/enlevement-epave/parking-souterrain",
 });
 
@@ -55,8 +55,8 @@ export default function ParkingSouterrainPage() {
         badge="Équipement spécialisé – Parking adapté"
         title="Enlèvement épave en parking souterrain"
         subtitle="L'enlèvement d'une épave en parking souterrain nécessite un équipement spécialisé et une expertise particulière. Nos équipes interviennent dans les parkings de résidence, copropriétés et centres commerciaux."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-16 bg-white">

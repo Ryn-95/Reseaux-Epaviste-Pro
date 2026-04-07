@@ -76,12 +76,12 @@ export default function HeroSection({
         {/* Form */}
         <div className="w-full max-w-xl bg-white/[0.04] backdrop-blur-lg rounded-2xl p-5 border border-white/[0.06]">
           <form className="flex flex-col gap-3" onSubmit={(e) => e.preventDefault()} aria-label="Demande d'enlèvement d'épave gratuit">
-            <div className="grid grid-cols-2 gap-3">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
               <input type="text" placeholder="Ville d'intervention" aria-label="Ville d'intervention" className="w-full bg-white/5 border border-white/5 rounded-xl px-4 py-3 text-white placeholder-white/25 focus:outline-none focus:border-white/15 transition-colors text-sm" value={formData.ville} onChange={(e) => setFormData({...formData, ville: e.target.value})} />
               <input type="tel" placeholder="Téléphone" aria-label="Téléphone" className="w-full bg-white/5 border border-white/5 rounded-xl px-4 py-3 text-white placeholder-white/25 focus:outline-none focus:border-white/15 transition-colors text-sm" value={formData.telephone} onChange={(e) => setFormData({...formData, telephone: e.target.value})} />
             </div>
             <input type="text" placeholder="Nom complet (pour certificat)" aria-label="Nom complet" className="w-full bg-white/5 border border-white/5 rounded-xl px-4 py-3 text-white placeholder-white/25 focus:outline-none focus:border-white/15 transition-colors text-sm" value={formData.nom} onChange={(e) => setFormData({...formData, nom: e.target.value})} />
-            <button type="submit" className="w-full bg-white text-black hover:bg-gray-100 transition-colors rounded-xl py-3.5 font-semibold text-sm flex items-center justify-center gap-2">
+            <button type="submit" className="w-full bg-white text-black hover:bg-gray-100 transition-colors rounded-xl py-3.5 sm:py-4 font-bold text-sm sm:text-base flex items-center justify-center gap-2">
               Enlèvement Gratuit
               <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2"><path strokeLinecap="round" strokeLinejoin="round" d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>
             </button>

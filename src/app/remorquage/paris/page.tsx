@@ -8,7 +8,7 @@ import LocalBusinessJsonLd from "@/components/LocalBusinessJsonLd";
 export const metadata = buildPageMetadata({
   title: "Remorquage Paris 24h/7j – Garage de votre choix | RéseauEpaviste",
   description:
-    "Remorquage à Paris 24h/7j : intervention rapide et transport vers le garage de votre choix ou vers un centre partenaire selon le cas. Appelez 01 84 17 32 18.",
+    "Remorquage à Paris 24h/7j : intervention rapide et transport vers le garage de votre choix ou vers un centre partenaire selon le cas. Appelez 07 45 48 24 64.",
   pathname: "/remorquage/paris",
 });
 
@@ -52,7 +52,7 @@ export default function RemorquageParisPage() {
       <LocalBusinessJsonLd
         name="RéseauEpaviste – Remorquage Paris"
         url="https://reseauepaviste.fr/remorquage/paris"
-        telephone="+33184173218"
+        telephone="+33745482464"
         cityOrArea="Paris"
         rating={4.8}
         reviewCount={1247}
@@ -67,8 +67,8 @@ export default function RemorquageParisPage() {
         badge="Paris – Remorquage 24h/7j"
         title="Remorquage Paris 24h/7j – Garage de votre choix"
         subtitle="Votre véhicule est immobilisé ? Nous organisons le remorquage à Paris et le transport vers le garage choisi, avec prise en charge adaptée."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <section className="py-14 bg-white border-y border-[#E5E7EB]">

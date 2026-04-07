@@ -51,8 +51,8 @@ export default function CertificatDestructionVhuPage() {
         badge="Guide – Document officiel"
         title="Certificat de destruction VHU (CERFA) : rôle, utilité, erreurs à éviter"
         subtitle="Le certificat de destruction est un document clé d’une procédure VHU conforme. Ce guide explique ce qu’il prouve et quoi conserver."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

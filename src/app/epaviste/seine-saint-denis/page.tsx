@@ -4,7 +4,7 @@ import EpavisteLocalTemplate from "@/components/EpavisteLocalTemplate";
 export const metadata = buildPageMetadata({
   title: "Épaviste Seine-Saint-Denis – Enlèvement d’épave gratuit et agréé VHU | RéseauEpaviste",
   description:
-    "Épaviste agréé en Seine-Saint-Denis : enlèvement d’épave (VHU) pris en charge, centres VHU partenaires et certificat de destruction officiel. Demandez un rappel ou appelez 01 84 17 32 18.",
+    "Épaviste agréé en Seine-Saint-Denis : enlèvement d’épave (VHU) pris en charge, centres VHU partenaires et certificat de destruction officiel. Demandez un rappel ou appelez 07 45 48 24 64.",
   pathname: "/epaviste/seine-saint-denis",
 });
 
@@ -22,7 +22,7 @@ export default function EpavisteSeineSaintDenisPage() {
       localBusinessJsonLdProps={{
         name: "RéseauEpaviste Seine-Saint-Denis",
         url: "https://reseauepaviste.fr/epaviste/seine-saint-denis",
-        telephone: "+33184173218",
+        telephone: "+33745482464",
         cityOrArea: "Seine-Saint-Denis",
         rating: 4.8,
         reviewCount: 1247,

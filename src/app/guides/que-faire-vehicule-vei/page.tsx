@@ -85,8 +85,8 @@ export default function VehiculeVeiPage() {
         badge="Guide – assurance / procédure"
         title="Véhicule VEI : que faire (options, démarches, VHU)"
         subtitle="Un guide de repères pour clarifier vos options et sécuriser la procédure. En cas de destruction, la filière VHU doit rester conforme et documentée."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <GuideWikiArticleLayout

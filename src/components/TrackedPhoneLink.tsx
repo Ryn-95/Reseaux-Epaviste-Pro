@@ -4,7 +4,7 @@ import { pushDataLayer } from "@/lib/tracking";
 
 type TrackedPhoneLinkProps = React.ComponentPropsWithoutRef<"a"> & {
   trackingLocation: string;
-  phoneHref: string; // ex: "tel:+33184173218"
+  phoneHref: string; // ex: "tel:+33745482464"
 };
 
 export default function TrackedPhoneLink({

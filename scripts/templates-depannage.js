@@ -8,7 +8,7 @@ module.exports = function generateDepannagePage(city) {
 
 export const metadata: Metadata = {
   title: 'Assistance Routière ${city.name} 24h/24 – Dépannage Technique Certifié | RéseauEpaviste',
-  description: 'Service d\\'assistance automobile à ${city.name} (${city.dept}). Intervention technique 24h/24 pour batterie, pneumatiques et pannes mécaniques. Service certifié disponible 7j/7. Contactez le 01 84 17 32 18.',
+  description: 'Service d\\'assistance automobile à ${city.name} (${city.dept}). Intervention technique 24h/24 pour batterie, pneumatiques et pannes mécaniques. Service certifié disponible 7j/7. Contactez le 07 45 48 24 64.',
   alternates: {
     canonical: 'https://reseauepaviste.fr/depannage-auto/${city.slug}/',
   },
@@ -131,7 +131,7 @@ const jsonLd = {
           name: 'Quelle est la tarification d\\'un dépannage automobile à ${city.name} ?',
           acceptedAnswer: {
             '@type': 'Answer',
-            text: 'La tarification des prestations de dépannage à ${city.name} est encadrée : assistance batterie à partir de 60€, remplacement pneumatique dès 50€, et assistance carburant dès 70€. Une estimation détaillée est fournie systématiquement avant toute mobilisation au 01 84 17 32 18.',
+            text: 'La tarification des prestations de dépannage à ${city.name} est encadrée : assistance batterie à partir de 60€, remplacement pneumatique dès 50€, et assistance carburant dès 70€. Une estimation détaillée est fournie systématiquement avant toute mobilisation au 07 45 48 24 64.',
           },
         },
         {
@@ -187,8 +187,8 @@ export default function DepannageAuto${city.name.replace(/[^a-zA-Z]/g, '')}Page(
                   <div className="flex flex-col md:flex-row md:items-center justify-between gap-6">
                     <div>
                       <div className="text-[10px] font-black uppercase tracking-[0.2em] text-[var(--gris-texte-leger)] mb-2">Ligne d'Urgence Technique</div>
-                      <a href="tel:+33184173218" className="text-3xl font-black text-[var(--bleu-france)] no-underline">
-                        01 84 17 32 18
+                      <a href="tel:+33745482464" className="text-3xl font-black text-[var(--bleu-france)] no-underline">
+                        07 45 48 24 64
                       </a>
                     </div>
                     <div className="flex flex-col gap-2">
@@ -293,7 +293,7 @@ export default function DepannageAuto${city.name.replace(/[^a-zA-Z]/g, '')}Page(
               <div className="bg-white p-8 border border-[var(--gris-border)] shadow-xl">
                 <div className="text-center">
                   <div className="text-[10px] font-black uppercase tracking-[0.2em] text-[var(--gris-texte-leger)] mb-4">Demande de Déploiement Technique</div>
-                  <a href="tel:+33184173218" className="btn-primary w-full py-5 justify-center text-xl">
+                  <a href="tel:+33745482464" className="btn-primary w-full py-5 justify-center text-xl">
                     Mobiliser un Agent
                   </a>
                   <p className="text-[9px] text-[var(--gris-texte-leger)] mt-4 uppercase tracking-widest font-bold">

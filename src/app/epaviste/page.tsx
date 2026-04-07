@@ -11,7 +11,7 @@ import ContextualLinksBlock from "@/components/ContextualLinksBlock";
 export const metadata = buildPageMetadata({
   title: "Épaviste agréé 24h/7j – Enlèvement d’épave gratuit | RéseauEpaviste",
   description:
-    "Trouvez un épaviste agréé partout en France : enlèvement d’épave (VHU) pris en charge, certificat de destruction officiel et centres VHU partenaires. Appelez le 01 84 17 32 18.",
+    "Trouvez un épaviste agréé partout en France : enlèvement d’épave (VHU) pris en charge, certificat de destruction officiel et centres VHU partenaires. Appelez le 07 45 48 24 64.",
   pathname: "/epaviste",
 });
 
@@ -41,7 +41,7 @@ const faqItems = [
   {
     question: "Que se passe-t-il si mon véhicule est dans un endroit difficile d'accès ?",
     answer:
-      "Nos équipes sont équipées pour intervenir dans la plupart des situations complexes : sous-sol de parking, cave, terrain en pente, propriété fermée. Certains cas peuvent nécessiter une grue ou un équipement spécial, ce qui peut engendrer un supplément de coût. Renseignez-vous à l'avance en appelant le 01 84 17 32 18.",
+      "Nos équipes sont équipées pour intervenir dans la plupart des situations complexes : sous-sol de parking, cave, terrain en pente, propriété fermée. Certains cas peuvent nécessiter une grue ou un équipement spécial, ce qui peut engendrer un supplément de coût. Renseignez-vous à l'avance en appelant le 07 45 48 24 64.",
   },
   {
     question: "Puis-je obtenir une prime à la casse en plus ?",
@@ -69,8 +69,8 @@ export default function EpavisteNationalePage() {
         badge="Certifié VHU – Agréé Préfecture"
         title="Votre épaviste agréé en France – Enlèvement gratuit"
         subtitle="RéseauEpaviste met en relation des particuliers et des professionnels avec des épavistes certifiés partout en France. Intervention rapide, sans frais, avec remise du certificat de destruction officiel."
-        ctaText="Appeler le 01 84 17 32 18"
-        ctaHref="tel:+33184173218"
+        ctaText="Appeler le 07 45 48 24 64"
+        ctaHref="tel:+33745482464"
       />
 
       <TrustBadges />
@@ -162,7 +162,7 @@ export default function EpavisteNationalePage() {
           </h2>
           <div className="space-y-6">
             {[
-              { num: "1", title: "Prise de contact", desc: "Appelez le 01 84 17 32 18 ou remplissez notre formulaire en ligne. Un conseiller évalue votre situation en 2 minutes et vous met en relation avec l'épaviste le plus proche disponible." },
+              { num: "1", title: "Prise de contact", desc: "Appelez le 07 45 48 24 64 ou remplissez notre formulaire en ligne. Un conseiller évalue votre situation en 2 minutes et vous met en relation avec l'épaviste le plus proche disponible." },
               { num: "2", title: "Confirmation et planification", desc: "L'épaviste vous confirme l'heure d'arrivée et vous indique les documents à préparer (carte grise barrée, pièce d'identité). En IDF, l'intervention est souvent possible le jour même." },
               { num: "3", title: "Enlèvement sur place", desc: "L'épaviste agréé se présente à l'adresse convenue avec son véhicule de remorquage. Il charge l'épave proprement et rapidement, sans dommage à votre propriété." },
               { num: "4", title: "Remise du certificat de destruction", desc: "Sur place, l'épaviste vous remet le certificat de destruction CERFA n°14365 dûment complété. Ce document met fin à votre responsabilité sur le véhicule. Vous pouvez ensuite procéder à la radiation auprès de l'ANTS." },
