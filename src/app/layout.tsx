@@ -173,7 +173,7 @@ export const metadata: Metadata = {
 
   // ─── Verification (replace with real tokens) ───
   verification: {
-    google: "YOUR_GOOGLE_SEARCH_CONSOLE_TOKEN",
+    google: "dREE9EskCPHtAI8z2MGLDwzGYl8I3RS3Us9VZPF0mBw",
     // yandex: "YOUR_YANDEX_TOKEN",
   },
 
