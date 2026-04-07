@@ -4,19 +4,19 @@ export async function GET() {
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://reseauxepaviste.fr/sitemap-home.xml</loc>
+    <loc>https://www.reseauxepaviste.fr/sitemap-home.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://reseauxepaviste.fr/sitemap-services.xml</loc>
+    <loc>https://www.reseauxepaviste.fr/sitemap-services.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://reseauxepaviste.fr/sitemap-idf.xml</loc>
+    <loc>https://www.reseauxepaviste.fr/sitemap-idf.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://reseauxepaviste.fr/sitemap-national.xml</loc>
+    <loc>https://www.reseauxepaviste.fr/sitemap-national.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://reseauxepaviste.fr/sitemap-blog.xml</loc>
+    <loc>https://www.reseauxepaviste.fr/sitemap-blog.xml</loc>
   </sitemap>
 </sitemapindex>`;
 
