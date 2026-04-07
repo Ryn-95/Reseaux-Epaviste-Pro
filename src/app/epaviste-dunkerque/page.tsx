@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Dunkerque | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Dunkerque (59). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-dunkerque/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-dunkerque/',
   },
 };
 

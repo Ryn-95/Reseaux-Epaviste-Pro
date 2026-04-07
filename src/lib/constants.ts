@@ -1,5 +1,5 @@
 export const SITE_NAME = "Réseaux Épaviste";
-export const SITE_URL = "https://reseauxepaviste.fr";
+export const SITE_URL = "https://www.reseauxepaviste.fr";
 
 export const PHONE_EPAVISTE_DISPLAY = "07 45 48 24 64";
 export const PHONE_EPAVISTE_TEL = "+33745482464";

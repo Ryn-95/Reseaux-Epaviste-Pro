@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Dijon | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Dijon (21). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-dijon/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-dijon/',
   },
 };
 

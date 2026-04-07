@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Marseille | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Marseille (13). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-marseille/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-marseille/',
   },
 };
 

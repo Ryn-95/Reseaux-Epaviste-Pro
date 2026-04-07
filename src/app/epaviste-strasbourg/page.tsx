@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Strasbourg | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Strasbourg (67). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-strasbourg/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-strasbourg/',
   },
 };
 

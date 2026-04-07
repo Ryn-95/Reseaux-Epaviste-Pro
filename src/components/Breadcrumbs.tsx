@@ -19,13 +19,13 @@ export default function Breadcrumbs({ items }: BreadcrumbsProps) {
         "@type": "ListItem",
         "position": 1,
         "name": "Accueil",
-        "item": "https://reseauxepaviste.fr/"
+        "item": "https://www.reseauxepaviste.fr/"
       },
       ...items.map((item, index) => ({
         "@type": "ListItem",
         "position": index + 2,
         "name": item.label,
-        "item": `https://reseauxepaviste.fr${item.href}`
+        "item": `https://www.reseauxepaviste.fr${item.href}`
       }))
     ]
   };

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit La Rochelle | Réseaux Épaviste",
   description: "Épaviste agréé VHU à La Rochelle (17). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-la-rochelle/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-la-rochelle/',
   },
 };
 

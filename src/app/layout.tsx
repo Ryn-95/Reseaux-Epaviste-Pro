@@ -149,10 +149,10 @@ export const metadata: Metadata = {
 
   // ─── Canonicals & Alternates ───
   alternates: {
-    canonical: "https://reseauxepaviste.fr",
+    canonical: "https://www.reseauxepaviste.fr",
     languages: {
-      "fr-FR": "https://reseauxepaviste.fr",
-      "x-default": "https://reseauxepaviste.fr",
+      "fr-FR": "https://www.reseauxepaviste.fr",
+      "x-default": "https://www.reseauxepaviste.fr",
     },
   },
 

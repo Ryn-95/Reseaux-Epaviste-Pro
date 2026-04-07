@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Toulouse | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Toulouse (31). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-toulouse/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-toulouse/',
   },
 };
 

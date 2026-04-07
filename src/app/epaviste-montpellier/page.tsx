@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Montpellier | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Montpellier (34). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-montpellier/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-montpellier/',
   },
 };
 

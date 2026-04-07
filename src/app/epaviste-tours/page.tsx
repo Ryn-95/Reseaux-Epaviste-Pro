@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Tours | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Tours (37). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-tours/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-tours/',
   },
 };
 

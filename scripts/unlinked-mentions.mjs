@@ -66,7 +66,7 @@ async function searchMentions() {
     fs.writeFileSync(outputPath, csvContent.join('\n'), 'utf-8');
     
     console.log(`\n📁 Résultats sauvegardés dans : ${outputPath}`);
-    console.log('💡 Prochaine étape : Visitez ces liens. S\'ils mentionnent "Réseaux Épaviste" sans faire de lien vers https://reseauxepaviste.fr, contactez le webmaster !');
+    console.log('💡 Prochaine étape : Visitez ces liens. S\'ils mentionnent "Réseaux Épaviste" sans faire de lien vers https://www.reseauxepaviste.fr, contactez le webmaster !');
 
   } catch (error) {
     console.error('❌ Erreur lors de la requête API:', error.message);

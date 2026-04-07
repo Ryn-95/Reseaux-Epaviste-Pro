@@ -4,13 +4,13 @@ export default function GlobalJsonLd() {
     "@graph": [
       {
         "@type": ["LocalBusiness", "AutomotiveBusiness"],
-        "@id": "https://reseauxepaviste.fr/#LocalBusiness",
+        "@id": "https://www.reseauxepaviste.fr/#LocalBusiness",
         "name": "Réseaux Épaviste",
         "telephone": "07 45 48 24 64",
         "email": "contact@reseauxepaviste.fr",
-        "url": "https://reseauxepaviste.fr",
-        "logo": "https://reseauxepaviste.fr/logo.png",
-        "image": "https://reseauxepaviste.fr/images/depanneuse.jpg",
+        "url": "https://www.reseauxepaviste.fr",
+        "logo": "https://www.reseauxepaviste.fr/logo.png",
+        "image": "https://www.reseauxepaviste.fr/images/depanneuse.jpg",
         "priceRange": "Gratuit",
         "openingHoursSpecification": [
           {
@@ -38,29 +38,29 @@ export default function GlobalJsonLd() {
       },
       {
         "@type": "Service",
-        "@id": "https://reseauxepaviste.fr/#ServiceEnlevement",
+        "@id": "https://www.reseauxepaviste.fr/#ServiceEnlevement",
         "serviceType": "Enlèvement épave gratuit",
-        "provider": { "@id": "https://reseauxepaviste.fr/#LocalBusiness" },
+        "provider": { "@id": "https://www.reseauxepaviste.fr/#LocalBusiness" },
         "areaServed": { "@type": "State", "name": "Île-de-France" },
         "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" }
       },
       {
         "@type": "Service",
-        "@id": "https://reseauxepaviste.fr/#ServiceDepannage",
+        "@id": "https://www.reseauxepaviste.fr/#ServiceDepannage",
         "serviceType": "Dépannage auto 24h/7j",
-        "provider": { "@id": "https://reseauxepaviste.fr/#LocalBusiness" },
+        "provider": { "@id": "https://www.reseauxepaviste.fr/#LocalBusiness" },
         "areaServed": { "@type": "State", "name": "Île-de-France" }
       },
       {
         "@type": "Service",
-        "@id": "https://reseauxepaviste.fr/#ServiceRemorquage",
+        "@id": "https://www.reseauxepaviste.fr/#ServiceRemorquage",
         "serviceType": "Remorquage professionnel",
-        "provider": { "@id": "https://reseauxepaviste.fr/#LocalBusiness" },
+        "provider": { "@id": "https://www.reseauxepaviste.fr/#LocalBusiness" },
         "areaServed": { "@type": "State", "name": "Île-de-France" }
       },
       {
         "@type": "FAQPage",
-        "@id": "https://reseauxepaviste.fr/#FAQPage",
+        "@id": "https://www.reseauxepaviste.fr/#FAQPage",
         "mainEntity": [
           {
             "@type": "Question",
@@ -106,8 +106,8 @@ export default function GlobalJsonLd() {
       },
       {
         "@type": "AggregateRating",
-        "@id": "https://reseauxepaviste.fr/#AggregateRating",
-        "itemReviewed": { "@id": "https://reseauxepaviste.fr/#LocalBusiness" },
+        "@id": "https://www.reseauxepaviste.fr/#AggregateRating",
+        "itemReviewed": { "@id": "https://www.reseauxepaviste.fr/#LocalBusiness" },
         "ratingValue": "4.9",
         "reviewCount": "1847",
         "bestRating": "5"
@@ -115,8 +115,8 @@ export default function GlobalJsonLd() {
       {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://reseauxepaviste.fr" },
-          { "@type": "ListItem", "position": 2, "name": "Enlèvement Épave", "item": "https://reseauxepaviste.fr/enlevement-epave/" }
+          { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://www.reseauxepaviste.fr" },
+          { "@type": "ListItem", "position": 2, "name": "Enlèvement Épave", "item": "https://www.reseauxepaviste.fr/enlevement-epave/" }
         ]
       },
       {

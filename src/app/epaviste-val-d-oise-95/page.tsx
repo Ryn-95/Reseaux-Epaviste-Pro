@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Épaviste Agréé Val-d'Oise (95) | Réseaux Épaviste",
   description: "Épaviste gratuit et agréé VHU dans le 95 (Val-d'Oise). Enlèvement épave gratuit sous 24h. Certificat CERFA immédiat. Appelez le 07 45 48 24 64.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-val-d-oise-95/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-val-d-oise-95/',
   },
 };
 

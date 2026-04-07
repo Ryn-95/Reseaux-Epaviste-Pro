@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   title: "Épaviste Agréé ${dep.nom} (${dep.numero}) | Réseaux Épaviste",
   description: "Épaviste gratuit et agréé VHU dans le ${dep.numero} (${dep.nom}). Enlèvement épave gratuit sous 24h. Certificat CERFA immédiat. Appelez le 07 45 48 24 64.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-${slug}-${dep.numero}/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-${slug}-${dep.numero}/',
   },
 };
 

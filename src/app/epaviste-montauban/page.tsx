@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Montauban | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Montauban (82). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-montauban/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-montauban/',
   },
 };
 

@@ -52,7 +52,7 @@ const faqItems = [
 export default function DepannageAutoPage() {
   return (
     <div className="bg-pro-gray">
-      <ServiceJsonLd name="Dépannage automobile" url="https://reseauxepaviste.fr/depannage-auto" areaServed="Île-de-France" />
+      <ServiceJsonLd name="Dépannage automobile" url="https://www.reseauxepaviste.fr/depannage-auto" areaServed="Île-de-France" />
       
       <div className="pt-32">
         <Breadcrumb items={breadcrumbItems} />

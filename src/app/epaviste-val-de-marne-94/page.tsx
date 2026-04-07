@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Épaviste Agréé Val-de-Marne (94) | Réseaux Épaviste",
   description: "Épaviste gratuit et agréé VHU dans le 94 (Val-de-Marne). Enlèvement épave gratuit sous 24h. Certificat CERFA immédiat. Appelez le 07 45 48 24 64.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-val-de-marne-94/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-val-de-marne-94/',
   },
 };
 

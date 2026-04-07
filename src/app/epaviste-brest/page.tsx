@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Brest | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Brest (29). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-brest/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-brest/',
   },
 };
 

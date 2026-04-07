@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Caen | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Caen (14). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-caen/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-caen/',
   },
 };
 

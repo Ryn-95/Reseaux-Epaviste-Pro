@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Béziers | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Béziers (34). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-beziers/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-beziers/',
   },
 };
 

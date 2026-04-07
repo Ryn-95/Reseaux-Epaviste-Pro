@@ -25,11 +25,11 @@ export default function robots(): MetadataRoute.Robots {
       },
     ],
     sitemap: [
-      "https://reseauxepaviste.fr/sitemap.xml",
-      "https://reseauxepaviste.fr/sitemap-services.xml",
-      "https://reseauxepaviste.fr/sitemap-idf.xml",
-      "https://reseauxepaviste.fr/sitemap-national.xml",
-      "https://reseauxepaviste.fr/sitemap-blog.xml",
+      "https://www.reseauxepaviste.fr/sitemap.xml",
+      "https://www.reseauxepaviste.fr/sitemap-services.xml",
+      "https://www.reseauxepaviste.fr/sitemap-idf.xml",
+      "https://www.reseauxepaviste.fr/sitemap-national.xml",
+      "https://www.reseauxepaviste.fr/sitemap-blog.xml",
     ],
   };
 }

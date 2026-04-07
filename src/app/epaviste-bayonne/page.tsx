@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Bayonne | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Bayonne (64). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-bayonne/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-bayonne/',
   },
 };
 

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Épaviste Agréé Hauts-de-Seine (92) | Réseaux Épaviste",
   description: "Épaviste gratuit et agréé VHU dans le 92 (Hauts-de-Seine). Enlèvement épave gratuit sous 24h. Certificat CERFA immédiat. Appelez le 07 45 48 24 64.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-hauts-de-seine-92/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-hauts-de-seine-92/',
   },
 };
 

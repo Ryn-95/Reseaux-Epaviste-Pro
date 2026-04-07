@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Orléans | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Orléans (45). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-orleans/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-orleans/',
   },
 };
 

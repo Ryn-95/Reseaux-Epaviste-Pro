@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Chambéry | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Chambéry (73). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-chambery/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-chambery/',
   },
 };
 

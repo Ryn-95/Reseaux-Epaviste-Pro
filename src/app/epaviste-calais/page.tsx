@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Calais | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Calais (62). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-calais/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-calais/',
   },
 };
 

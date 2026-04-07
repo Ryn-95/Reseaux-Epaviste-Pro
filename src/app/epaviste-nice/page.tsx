@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Nice | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Nice (06). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-nice/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-nice/',
   },
 };
 

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Bordeaux | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Bordeaux (33). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-bordeaux/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-bordeaux/',
   },
 };
 

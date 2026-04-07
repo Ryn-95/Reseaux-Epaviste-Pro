@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Perpignan | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Perpignan (66). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-perpignan/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-perpignan/',
   },
 };
 

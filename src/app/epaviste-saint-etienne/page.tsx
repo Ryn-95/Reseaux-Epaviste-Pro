@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Saint-Étienne | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Saint-Étienne (42). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-saint-etienne/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-saint-etienne/',
   },
 };
 

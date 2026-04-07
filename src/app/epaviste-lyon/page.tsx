@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Lyon | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Lyon (69). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-lyon/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-lyon/',
   },
 };
 

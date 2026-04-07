@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Douai | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Douai (59). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-douai/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-douai/',
   },
 };
 

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Nîmes | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Nîmes (30). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-nimes/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-nimes/',
   },
 };
 

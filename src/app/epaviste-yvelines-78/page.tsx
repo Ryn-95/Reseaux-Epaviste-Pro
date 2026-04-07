@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Épaviste Agréé Yvelines (78) | Réseaux Épaviste",
   description: "Épaviste gratuit et agréé VHU dans le 78 (Yvelines). Enlèvement épave gratuit sous 24h. Certificat CERFA immédiat. Appelez le 07 45 48 24 64.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-yvelines-78/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-yvelines-78/',
   },
 };
 

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Besançon | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Besançon (25). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-besancon/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-besancon/',
   },
 };
 

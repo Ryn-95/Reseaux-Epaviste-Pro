@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Pau | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Pau (64). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-pau/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-pau/',
   },
 };
 

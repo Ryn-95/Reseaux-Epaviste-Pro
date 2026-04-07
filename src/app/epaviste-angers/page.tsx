@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Angers | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Angers (49). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-angers/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-angers/',
   },
 };
 

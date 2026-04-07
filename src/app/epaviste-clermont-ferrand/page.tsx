@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Clermont-Ferrand | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Clermont-Ferrand (63). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-clermont-ferrand/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-clermont-ferrand/',
   },
 };
 

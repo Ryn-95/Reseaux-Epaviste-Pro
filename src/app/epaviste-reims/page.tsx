@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Reims | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Reims (51). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-reims/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-reims/',
   },
 };
 

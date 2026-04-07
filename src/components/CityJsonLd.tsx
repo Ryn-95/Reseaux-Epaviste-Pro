@@ -12,7 +12,7 @@ export default function CityJsonLd({ city, department, region }: CityJsonLdProps
     "@type": ["LocalBusiness", "AutomotiveBusiness"],
     "name": `Réseaux Épaviste ${city}`,
     "description": `Centre VHU agréé intervenant à ${city} (${department}) pour l'enlèvement gratuit d'épave et le dépannage auto.`,
-    "url": `https://reseauxepaviste.fr/epaviste-${city.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, '-').replace(/'/g, '-')}`,
+    "url": `https://www.reseauxepaviste.fr/epaviste-${city.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/\s+/g, '-').replace(/'/g, '-')}`,
     "telephone": "+33 1 84 17 32 18",
     "areaServed": [
       {

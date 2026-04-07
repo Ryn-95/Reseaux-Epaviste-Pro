@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Villeurbanne | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Villeurbanne (69). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-villeurbanne/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-villeurbanne/',
   },
 };
 

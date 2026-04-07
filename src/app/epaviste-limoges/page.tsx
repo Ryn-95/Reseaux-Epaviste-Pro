@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Limoges | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Limoges (87). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-limoges/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-limoges/',
   },
 };
 

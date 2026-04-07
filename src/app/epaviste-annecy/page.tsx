@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Annecy | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Annecy (74). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-annecy/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-annecy/',
   },
 };
 

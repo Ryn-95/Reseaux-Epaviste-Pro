@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Metz | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Metz (57). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-metz/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-metz/',
   },
 };
 

@@ -88,7 +88,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit ${city.ville} | Réseaux Épaviste",
   description: "Épaviste agréé VHU à ${city.ville} (${city.departement}). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-${slug}/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-${slug}/',
   },
 };
 

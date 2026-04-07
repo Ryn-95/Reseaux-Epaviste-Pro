@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Épaviste Agréé Paris (75) | Réseaux Épaviste",
   description: "Épaviste gratuit et agréé VHU dans le 75 (Paris). Enlèvement épave gratuit sous 24h. Certificat CERFA immédiat. Appelez le 07 45 48 24 64.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-paris-75/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-paris-75/',
   },
 };
 

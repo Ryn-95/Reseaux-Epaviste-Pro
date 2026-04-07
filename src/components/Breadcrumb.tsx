@@ -17,7 +17,7 @@ export default function Breadcrumb({ items }: BreadcrumbProps) {
       "@type": "ListItem",
       position: idx + 1,
       name: item.label,
-      item: `https://reseauxepaviste.fr${item.href}`,
+      item: `https://www.reseauxepaviste.fr${item.href}`,
     })),
   };
 

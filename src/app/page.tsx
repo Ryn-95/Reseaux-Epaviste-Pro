@@ -84,12 +84,12 @@ export default function HomePage() {
             "@graph": [
               {
                 "@type": ["LocalBusiness", "AutomotiveBusiness"],
-                "@id": "https://reseauxepaviste.fr/#organization",
+                "@id": "https://www.reseauxepaviste.fr/#organization",
                 "name": "Réseaux Épaviste",
                 "telephone": "07 45 48 24 64",
                 "email": "contact@reseauxepaviste.fr",
-                "url": "https://reseauxepaviste.fr",
-                "logo": "https://reseauxepaviste.fr/logo.png",
+                "url": "https://www.reseauxepaviste.fr",
+                "logo": "https://www.reseauxepaviste.fr/logo.png",
                 "image": "https://images.unsplash.com/photo-1587582423116-ec07293f0395?q=80&w=1600&auto=format&fit=crop",
                 "priceRange": "Gratuit",
                 "openingHoursSpecification": [
@@ -115,13 +115,13 @@ export default function HomePage() {
               {
                 "@type": "Service",
                 "serviceType": "Enlèvement épave gratuit",
-                "provider": { "@id": "https://reseauxepaviste.fr/#organization" },
+                "provider": { "@id": "https://www.reseauxepaviste.fr/#organization" },
                 "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" }
               },
               {
                 "@type": "Service",
                 "serviceType": "Dépannage auto 24h/7j",
-                "provider": { "@id": "https://reseauxepaviste.fr/#organization" }
+                "provider": { "@id": "https://www.reseauxepaviste.fr/#organization" }
               },
               {
                 "@type": "FAQPage",
@@ -136,7 +136,7 @@ export default function HomePage() {
               },
               {
                 "@type": "AggregateRating",
-                "itemReviewed": { "@id": "https://reseauxepaviste.fr/#organization" },
+                "itemReviewed": { "@id": "https://www.reseauxepaviste.fr/#organization" },
                 "ratingValue": "4.9",
                 "reviewCount": "1847",
                 "bestRating": "5"
@@ -144,10 +144,10 @@ export default function HomePage() {
               {
                 "@type": "BreadcrumbList",
                 "itemListElement": [
-                  { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://reseauxepaviste.fr/" },
-                  { "@type": "ListItem", "position": 2, "name": "Enlèvement d'épave", "item": "https://reseauxepaviste.fr/enlevement-epave" },
-                  { "@type": "ListItem", "position": 3, "name": "Dépannage auto", "item": "https://reseauxepaviste.fr/depannage-auto" },
-                  { "@type": "ListItem", "position": 4, "name": "Centre VHU", "item": "https://reseauxepaviste.fr/centre-vhu" }
+                  { "@type": "ListItem", "position": 1, "name": "Accueil", "item": "https://www.reseauxepaviste.fr/" },
+                  { "@type": "ListItem", "position": 2, "name": "Enlèvement d'épave", "item": "https://www.reseauxepaviste.fr/enlevement-epave" },
+                  { "@type": "ListItem", "position": 3, "name": "Dépannage auto", "item": "https://www.reseauxepaviste.fr/depannage-auto" },
+                  { "@type": "ListItem", "position": 4, "name": "Centre VHU", "item": "https://www.reseauxepaviste.fr/centre-vhu" }
                 ]
               }
             ]

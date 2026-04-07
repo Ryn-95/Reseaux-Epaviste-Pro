@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Épaviste Gratuit Aix-en-Provence | Réseaux Épaviste",
   description: "Épaviste agréé VHU à Aix-en-Provence (13). Enlèvement d'épave gratuit sous 24h. Obtenez votre certificat de destruction CERFA. Intervention rapide.",
   alternates: {
-    canonical: 'https://reseauxepaviste.fr/epaviste-aix-en-provence/',
+    canonical: 'https://www.reseauxepaviste.fr/epaviste-aix-en-provence/',
   },
 };
 
