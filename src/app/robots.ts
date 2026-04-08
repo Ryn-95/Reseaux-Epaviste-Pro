@@ -25,7 +25,7 @@ export default function robots(): MetadataRoute.Robots {
       },
     ],
     sitemap: [
-      "https://www.reseauxepaviste.fr/sitemap-gsc.xml",
+      "https://www.reseauxepaviste.fr/sitemap.xml",
     ],
   };
 }
